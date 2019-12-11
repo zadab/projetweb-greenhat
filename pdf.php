@@ -15,7 +15,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Anti-Gaspenisie</title>
+  <title>Fitness City</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -37,7 +37,7 @@
   <!-- Google Font -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
 </head>
-<body onload="window.print();">
+<body onLoad="window.print();">
 <div class="wrapper">
   <!-- Main content -->
   <section class="invoice">
@@ -58,10 +58,10 @@
         <br>
         From
         <address>
-          <strong>Anti-Gaspenisie</strong><br>
-          Tunis<br>
-          Phone: (+216) 28237848<br>
-          Email: Anti-Gaspenisie@gmail.tn
+          <strong>Fitness City</strong><br>
+          Ben Arous Mourouj 6<br>
+          Phone: (+216) 20215548 <br>
+          Email: Azizgaied@gmail.com
 
         </address>
       </div>
